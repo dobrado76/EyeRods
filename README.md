@@ -9,6 +9,7 @@ Please feel free to comment (especially if you ever had experienced the same thi
 
 # Free and Open Source
 It is free for you to download and modify it any way you like or re-use it.
+A build is accessible in the .zip file in the root for your convenience.
 
 If you like it, feel free to Buy me a Coffee (https://www.buymeacoffee.com/dobrado76)
 
